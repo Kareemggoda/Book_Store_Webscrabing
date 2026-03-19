@@ -262,25 +262,6 @@ Book_Store_Scraping/
 
 ---
 
-## ⬆️ How to Upload to GitHub
-
-### 1. Create a new repository
-Go to [https://github.com/new](https://github.com/new), name your repo (e.g. `book-store-scraper`), then click **Create repository**.
-
-### 2. Push from your terminal
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: Book Store scraper and visualizer"
-git remote add origin https://github.com/YOUR_USERNAME/book-store-scraper.git
-git branch -M main
-git push -u origin main
-```
-
-> Replace `YOUR_USERNAME` with your actual GitHub username.
-
----
 
 ## 📝 Notes
 
